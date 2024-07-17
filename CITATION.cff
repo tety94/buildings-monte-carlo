@@ -1,0 +1,8 @@
+@software{buildings-monte-carlo,
+  author = {Stefano Callegaro},
+  month = {07},
+  year = {2024},
+  title = {MonteCarlo analysis for buildings},
+  url = {https://github.com/tety94/buildings-monte-carlo.git},
+  version = {1.0.0},
+}
